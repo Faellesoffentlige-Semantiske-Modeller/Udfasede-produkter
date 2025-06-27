@@ -1,2 +1,2 @@
-# Udfasede-produkter
-Arkiv for udfasede produkter
+# Udfasede produkter
+Arkiv for udfasede produkter.
