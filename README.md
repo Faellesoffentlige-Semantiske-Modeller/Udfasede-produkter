@@ -6,6 +6,8 @@ Når et produkt udfases, betyder det, at det ikke længere supporteres. Der fore
 
 ## [Anvendelsesprofil for organisation](https://github.com/Faellesoffentlige-Semantiske-Modeller/Udfasede-produkter/tree/main/Anvendelsesprofil%20for%20Organisation)
 
+![Status: Udfaset produkt](https://img.shields.io/badge/Status-Udfaset%20produkt-red)
+
 Anvendelsesprofilen for Organisation er en del af den fællesoffentlige digitale arkitektur og specificerer, hvordan information om organisationer – såsom myndigheder, virksomheder og andre organisatoriske enheder – struktureres og udveksles i den offentlige sektor.
 
 Profilen bygger på internationale standarder (bl.a. OIOUBL og ISO/IEC 6523) og fastlægger en fælles datamodel og XML-struktur, der muliggør ensartet registrering og deling af organisationsdata på tværs af myndigheder og it-systemer.
